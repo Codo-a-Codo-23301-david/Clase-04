@@ -46,7 +46,6 @@ class Input {
 }
 
 
-
 let myInput2 = new Input("objInput", "date");
 myInput2.render();
 
